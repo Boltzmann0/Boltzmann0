@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Lucas, a mathematics enthusiast and a computer engineering student.<br><br>🔭  I’m working as a high school Math teacher and studying Computer Engineering.<br>📚 I'm currently learning more about Python, Java, and exploring Artificial Intelligence.<br>⚡ In my free time, I enjoy diving deep into coding, especially with Python, and enhancing my skills in AI development.</p>
+<p align="left">I'm Lucas, a mathematics enthusiast and a computer engineering.<br><br>🔭  I’m working as a high school Math teacher and studying Computer Engineering.<br>📚 I'm currently learning more about Python, Java, C++/C# and exploring Artificial Intelligence.<br>⚡ In my free time, I enjoy diving deep into coding, especially with Python, and enhancing my skills in AI development.</p>
 
 ###
 
